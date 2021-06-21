@@ -1,0 +1,8 @@
+streamlit
+pyngrok==4.1.1
+textblob
+numpy
+pandas
+matplotlib
+sklearn
+opencv-python-headless
